@@ -1,0 +1,11 @@
+.app{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+   margin-top: 3%; 
+ 
+ }
+.weather{
+    display: none;
+    margin-top: 2%;
+
+}
